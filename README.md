@@ -50,7 +50,7 @@ Each model was trained and evaluated on a **publicly available dataset** to iden
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/Breast-Cancer-Prediction.git
+git clone https://github.com/Khewna/Breast-Cancer-Prediction.git
 cd Breast-Cancer-Prediction
 
 # Step 2: Create a virtual environment (recommended)
